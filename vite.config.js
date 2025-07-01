@@ -7,6 +7,7 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
     react()],
+    base: process.env.VITE_BASE_PATH ||"/SkinCare",
      server: {
     host: true,         // ← This allows access from network / ngrok
     port: 5173,         // (optional, set to match your ngrok port)
