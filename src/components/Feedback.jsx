@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
-import productImg from '../assets/Product2.png';
+import productImg from '../assets/product2.png';
 import headphone from '../assets/svg/headphone.png';
 
 const faqs = [
