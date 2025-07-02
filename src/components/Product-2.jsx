@@ -51,7 +51,7 @@ const Product2 = () => {
       <div className="flex items-center  justify-between lg:hidden mb-18 ">
 
         {/* Arrows */}
-        <div className="flex gap-4 relative md:top-171 top-165 left-35 lg:top-0 lg:right-0 md:left-80 z-2">
+        <div className="arrows-2 flex gap-4 relative md:top-171 top-165 left-35 lg:top-0 lg:right-0 md:left-80 z-2">
           <div
             onClick={prevSlide}
             className="w-10 h-10 rounded-full border border-black flex items-center justify-center cursor-pointer bg-white"
@@ -86,7 +86,7 @@ const Product2 = () => {
               viewport={{ once: true }}
               transition={{ duration: 0.8 }}
             >
-<div className="flex relative flex-wrap gap-4 ml-13 md:ml-23 bottom-5 lg:ml-89 lg:bottom-15">
+<div className="option flex relative flex-wrap gap-4 ml-13 md:ml-23 bottom-5 lg:ml-89 lg:bottom-15">
   <button className="px-5 py-2 rounded-full border text-sm font-semibold bg-[#2D3B36] text-white border-[#2D3B36]">
     NEW ARRIVAL
   </button>

@@ -25,7 +25,7 @@ const Footer = () => {
         <div className="flex flex-col gap-10 md:text-left text-right">
           <div>
             <p className="text-xl text-gray-300">Get in Touch</p>
-            <h3 className="md:text-4xl md:ml-0 text-[2.7rem] -ml-3">contact.skincare.com</h3>
+            <h3 className="md:text-4xl md:ml-0 text-[2.2rem] -ml-3">contact.skincare.com</h3>
           </div>
           <div className="flex gap-10 md:gap-6 text-sm mt-1 mb-1 lg:mt-19 lg-mb-15 md:mb-0 lg:justify-end md:mt-8 md:justify-start text-gray-300 ">
             <span>Terms Of Service</span>

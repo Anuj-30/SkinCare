@@ -4,3 +4,19 @@ body {
   font-family: 'Inter', sans-serif;
   background-color: #FEFFF4;
 }
+
+@media (max-width: 370px) {
+ .arrows{
+  position: relative;
+ right: 112px;
+}
+.arrows-2{
+  position: relative;
+ left: 122px;
+}
+.option{
+  position: relative;
+ left: -22px;
+}
+}
+

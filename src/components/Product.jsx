@@ -61,7 +61,7 @@ const Product = () => {
         </button>
 
         {/* Arrows */}
-        <div className="flex gap-4 relative md:top-161 top-145 right-39 lg:top-0 lg:right-0 md:right-86 z-2">
+        <div className="arrows flex gap-4 relative md:top-161 top-145 right-39 lg:top-0 lg:right-0 md:right-86 z-2">
           <div
             onClick={prevSlide}
             className="w-10 h-10 rounded-full border border-black flex items-center justify-center cursor-pointer bg-white"

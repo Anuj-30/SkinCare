@@ -13,7 +13,7 @@ export default defineConfig({
     port: 5173,         // (optional, set to match your ngrok port)
     strictPort: true,   // (optional, avoids auto-changing port)
     allowedHosts: [
-      '8d21-2409-40d1-ac-685d-cd2f-1e89-1354-41ca.ngrok-free.app'
+      '73cc-2409-40d1-ac-685d-64d8-fb86-9413-b130.ngrok-free.app'
     ]
   }
 })
